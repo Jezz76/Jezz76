@@ -1,38 +1,38 @@
 <div align="center">
 
-# Hi, gw Jes 👋
+# Jeskris
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&height=40&lines=Software+Engineer+%7C+Automation+Builder;Ngulik+Python%2C+Laravel+%26+Computer+Vision;Building+things+that+run+on+their+own." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=35&lines=Software+Engineering+%7C+Systems+Automation;Python%2C+Laravel%2C+Playwright%2C+Computer+Vision;Building+resilient+tools+%26+data+pipelines." alt="Typing SVG" />
 
 <p>
-  Santai aja mampir ke profil gw. Mahasiswa Informatika di Universitas Jenderal Soedirman yang doyan ngulik automasi sistem, web engineering, dan kecerdasan buatan.
+  Mahasiswa Informatika di Universitas Jenderal Soedirman. Fokus pada automasi sistem, web engineering, dan computer vision.
 </p>
 
 <br/>
 
-### 🛠️ Daily Tech & Tools
+### Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,laravel,php,ts,nodejs,postgres,docker,git,linux" alt="Tech Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,laravel,php,ts,nodejs,postgres,docker,git,linux" alt="Tech Stack" />
 </p>
 
 <br/>
 
-### ⚡ Activity & Coding Streak
+### Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jezz76&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jezz76&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Jezz76 GitHub Stats" height="150" />
-</p>
-
-<br/>
-
----
-<sub><i>Terbuka buat diskusi tech, ngobrol santai, atau collab projek seru. Cheers!</i></sub>
+<table align="center">
+  <tr>
+    <td width="320" valign="top">
+      <h4><a href="https://github.com/Jezz76/KP-Daily">KP-Daily</a></h4>
+      <p>Aplikasi web berbasis Laravel untuk dokumentasi dan monitoring aktivitas harian magang secara terstruktur.</p>
+      <sub><b>PHP &bull; Laravel &bull; Livewire</b></sub>
+    </td>
+    <td width="320" valign="top">
+      <h4><a href="https://github.com/Jezz76/EmailClassifier">EmailClassifier</a></h4>
+      <p>Sistem klasifikasi teks spam berbasis Machine Learning dengan Naive Bayes dan antarmuka Flask API.</p>
+      <sub><b>Python &bull; Flask &bull; Machine Learning</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
