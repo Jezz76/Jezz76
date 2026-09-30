@@ -1,42 +1,38 @@
-# Jeskris (Jezz76)
+<div align="center">
 
-```text
-Software Engineer | Automation, Fullstack & Computer Vision
-Informatics Undergraduate @ Universitas Jenderal Soedirman
-```
+# Hi, gw Jes 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&height=40&lines=Software+Engineer+%7C+Automation+Builder;Ngulik+Python%2C+Laravel+%26+Computer+Vision;Building+things+that+run+on+their+own." alt="Typing SVG" />
 
-### Focus & Interests
+<p>
+  Santai aja mampir ke profil gw. Mahasiswa Informatika di Universitas Jenderal Soedirman yang doyan ngulik automasi sistem, web engineering, dan kecerdasan buatan.
+</p>
 
-- **Systems & Browser Automation:** Building resilient data extraction, headless workflows, and RPA pipelines using Python & Playwright.
-- **Computer Vision & Edge AI:** Intelligent object detection, real-time tracking, and video stream analytics (YOLO, OpenCV, PyTorch).
-- **Fullstack Engineering:** Modern web applications with clean architecture (Laravel, Node.js/TypeScript, Tailwind CSS, REST/GraphQL).
+<br/>
 
----
-
-### Tech Stack & Tooling
-
-```text
-Languages      Python, PHP, TypeScript, JavaScript, Dart, SQL, C++
-Backend/Web    Laravel, Node.js, Fastify, Flask, Livewire, RESTful APIs
-Automation     Playwright, Headless Chromium, Reverse Engineering, Scrapy
-Data & AI      PyTorch, Ultralytics YOLO, OpenCV, Pandas, NumPy
-Infra/DevOps   Docker, Git, Linux/WSL, Cloudflare Workers, Nginx
-```
-
----
-
-### Featured Projects
-
-- [**KP-Daily**](https://github.com/Jezz76/KP-Daily) — A modern Laravel-based application for monitoring and documenting daily engineering activities with real-time analytics and component-driven architecture.
-- [**EmailClassifier**](https://github.com/Jezz76/EmailClassifier) — Machine learning text classification service applying NLP preprocessing and Naive Bayes modeling served via Flask API.
-
----
-
-### GitHub Activity & Analytics
+### 🛠️ Daily Tech & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jezz76&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Jezz76 GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jezz76&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,laravel,php,ts,nodejs,postgres,docker,git,linux" alt="Tech Stack" />
+  </a>
 </p>
+
+<br/>
+
+### ⚡ Activity & Coding Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jezz76&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jezz76&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Jezz76 GitHub Stats" height="150" />
+</p>
+
+<br/>
+
+---
+<sub><i>Terbuka buat diskusi tech, ngobrol santai, atau collab projek seru. Cheers!</i></sub>
+
+</div>
