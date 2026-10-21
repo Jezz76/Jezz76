@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">JEZZ76 / Night Shift</title><desc id="desc">A custom pixel-game scene: a quiet coding room above the city, a programmer at a desk, a sleeping cat, and a minimal game HUD. Informatics student, semester 7, Unsoed. Decorative game scene, not a live game or activity tracker.</desc>
+<defs>
+<pattern id="wall" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#1b2036"/><path d="M0 39H40" stroke="#20263e"/></pattern>
+<pattern id="floor" width="120" height="28" patternUnits="userSpaceOnUse"><rect width="120" height="28" fill="#45384a"/><path d="M0 27H120M119 0V28" stroke="#332b3d" stroke-width="2"/></pattern>
+<pattern id="windows" width="24" height="32" patternUnits="userSpaceOnUse"><rect x="8" y="8" width="6" height="10" fill="#9c8b8c" opacity=".4"/></pattern>
+</defs>
+<rect width="1200" height="650" fill="#101426"/>
+<g shape-rendering="crispEdges">
+<rect x="24" y="24" width="1152" height="602" fill="url(#wall)" stroke="#4c5877" stroke-width="2"/>
+<rect x="24" y="24" width="1152" height="64" fill="#151a2d"/>
+<path d="M24 88H1176" stroke="#4c5877" stroke-width="2"/>
+<rect x="50" y="46" width="16" height="16" fill="#9fe1cb"/>
+<rect x="1084" y="48" width="12" height="12" fill="#65718b"/><rect x="1110" y="48" width="12" height="12" fill="#c4a1cb"/><rect x="1136" y="48" width="12" height="12" fill="#e4ba8c"/>
+<!-- city window -->
+<rect x="362" y="120" width="514" height="272" fill="#0c1022" stroke="#66718c" stroke-width="8"/>
+<rect x="374" y="132" width="490" height="248" fill="#202b49"/>
+<path d="M390 152h4v4h-4zM462 184h4v4h-4zM560 146h4v4h-4zM650 192h4v4h-4zM818 156h4v4h-4zM732 218h4v4h-4zM424 224h4v4h-4z" fill="#afbdd6"/>
+<path d="M748 148h32v8h8v32h-8v8h-32v-8h-8v-32h8z" fill="#efddaf"/>
+<path d="M760 148h20v8h8v32h-8v8h-20v-8h-8v-32h8z" fill="#202b49"/>
+<path d="M374 310h42v-46h46v28h44v-64h62v92h40v-42h66v24h34v-56h56v62h40v-36h60v108H374z" fill="#151c34"/>
+<path d="M374 310h42v-46h46v28h44v-64h62v92h40v-42h66v24h34v-56h56v62h40v-36h60v108H374z" fill="url(#windows)"/>
+<rect x="606" y="124" width="8" height="260" fill="#66718c"/><rect x="368" y="374" width="502" height="12" fill="#8590a4"/>
+<!-- shelves -->
+<rect x="78" y="202" width="206" height="10" fill="#a48078"/>
+<rect x="94" y="152" width="20" height="50" fill="#c7959f"/><rect x="118" y="164" width="16" height="38" fill="#93b5ae"/><rect x="138" y="144" width="20" height="58" fill="#cbb38d"/><rect x="162" y="158" width="16" height="44" fill="#7888ad"/>
+<rect x="228" y="177" width="30" height="25" fill="#d2a387"/><path d="M238 177v-34h10v34M226 159v-13h12v13M248 151v-17h12v17" fill="#8cae99"/>
+<rect x="88" y="254" width="174" height="112" fill="#252c46" stroke="#606b87" stroke-width="4"/>
+<rect x="102" y="268" width="146" height="84" fill="#d6c8b4"/>
+<rect x="118" y="282" width="28" height="26" fill="#b88e9a"/><rect x="158" y="282" width="28" height="26" fill="#8daaa0"/><path d="M118 326h104M158 304v22" stroke="#8c7e79" stroke-width="3"/>
+<!-- floor -->
+<rect x="25" y="460" width="1150" height="110" fill="url(#floor)"/>
+<rect x="25" y="452" width="1150" height="10" fill="#826879"/>
+<rect x="350" y="492" width="540" height="56" fill="#30374e"/><rect x="362" y="500" width="516" height="40" fill="none" stroke="#62627d" stroke-width="2"/>
+<!-- computer desk -->
+<rect x="386" y="430" width="444" height="18" fill="#c49a87"/><rect x="386" y="448" width="444" height="8" fill="#896875"/>
+<rect x="402" y="456" width="14" height="70" fill="#8d7180"/><rect x="800" y="456" width="14" height="70" fill="#8d7180"/>
+<rect x="448" y="332" width="154" height="88" fill="#101526" stroke="#78839e" stroke-width="6"/>
+<rect x="458" y="342" width="134" height="68" fill="#263d4b"/>
+<path d="M470 356h32M484 368h64M484 380h46M470 392h80" stroke="#8ecdb9" stroke-width="4"/>
+<rect x="520" y="420" width="12" height="10" fill="#78839e"/>
+<rect x="620" y="346" width="104" height="74" fill="#101526" stroke="#78839e" stroke-width="6"/>
+<path d="M632 364h52M632 376h70M632 388h34M632 400h60" stroke="#b3a2cc" stroke-width="3"/>
+<rect x="666" y="420" width="12" height="10" fill="#78839e"/>
+<rect x="742" y="410" width="22" height="20" fill="#e0c6a1"/><path d="M764 414h8v12h-8" fill="none" stroke="#e0c6a1" stroke-width="4"/>
+<!-- pixel character at chair -->
+<rect x="562" y="396" width="52" height="48" fill="#cba18b"/><path d="M554 396v-18h10v-10h42v10h16v26h-16v-8z" fill="#28283b"/>
+<rect x="550" y="438" width="76" height="58" fill="#697793"/><rect x="558" y="448" width="60" height="54" fill="#465570"/>
+<rect x="544" y="474" width="88" height="32" fill="#292e44" stroke="#75809a" stroke-width="4"/>
+<rect x="580" y="508" width="10" height="22" fill="#a1a7b5"/><path d="M558 532h54" stroke="#a1a7b5" stroke-width="6"/>
+<!-- plant -->
+<rect x="956" y="414" width="54" height="46" fill="#ac827b"/><rect x="948" y="406" width="70" height="12" fill="#d0a18b"/>
+<path d="M978 406v-98h12v98M956 346h22v20h-22M990 328h24v20h-24M962 304h22v18h-22M990 374h20v16h-20" fill="#87ad9a"/>
+<!-- sleeping cat -->
+<path d="M928 512v-14h12v-12l12 10h28l12-10v26h20v14h-84z" fill="#d2b596"/><rect x="940" y="508" width="8" height="3" fill="#453b47"/><rect x="962" y="508" width="8" height="3" fill="#453b47"/>
+<path d="M1012 520h18v-14h-10" fill="none" stroke="#d2b596" stroke-width="8"/>
+<!-- HUD footer -->
+<rect x="25" y="570" width="1150" height="55" fill="#151a2d"/><path d="M25 570H1175" stroke="#4c5877" stroke-width="2"/>
+</g>
+<g font-family="Inter,Arial,sans-serif">
+<text x="84" y="63" fill="#e6e9ef" font-size="22" font-weight="700" letter-spacing="4">JEZZ76</text>
+<text x="285" y="61" fill="#96a3be" font-size="13" letter-spacing="2">NIGHT SHIFT / SAVE ROOM</text>
+<text x="935" y="159" fill="#e4ba8c" font-size="16" font-weight="600" letter-spacing="2">JESKRIS</text>
+<text x="935" y="186" fill="#a5b0c6" font-size="13">Informatics student</text>
+<text x="935" y="208" fill="#a5b0c6" font-size="13">Unsoed / Semester 7</text>
+<text x="1002" y="477" fill="#a5b0c6" font-size="15">z</text><text x="1019" y="460" fill="#a5b0c6" font-size="19">z</text>
+<text x="52" y="604" fill="#9fe1cb" font-size="13" letter-spacing="2">WEB / PYTHON / EXPERIMENTS</text>
+<text x="1148" y="604" text-anchor="end" fill="#b3a2cc" font-size="13" letter-spacing="2">SELECT A PROJECT BELOW</text>
+</g>
+</svg>
