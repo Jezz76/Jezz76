@@ -1,15 +1,15 @@
-<p align="center">
-  <img src="./assets/night-shift.svg" width="100%" alt="JEZZ76 — a pixel-art night-shift game screen. Informatics, semester 7, Unsoed." />
-</p>
+## Jeskris
 
-<p align="center">
-  <a href="https://github.com/Jezz76?tab=repositories"><b>SELECT PROJECT</b></a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Jezz76/KP-Daily">KP-Daily</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Jezz76/EmailClassifier">EmailClassifier</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Jezz76/manajemen-film-laravel">Film Manager</a>
-</p>
+Interested in web development, Python automation, and computer vision.
 
-<p align="center"><sub><a href="https://www.linkedin.com/in/jeskris-silahooy/">LINKEDIN</a> &nbsp; / &nbsp; <a href="https://github.com/Jezz76?tab=repositories">ALL REPOSITORIES</a></sub></p>
+**Tools:** PHP · Laravel · Python · Flask · Git
+
+### Projects
+
+- **[KP-Daily](https://github.com/Jezz76/KP-Daily)** — A Laravel application for logging daily internship activities.
+- **[EmailClassifier](https://github.com/Jezz76/EmailClassifier)** — Spam classification with Naive Bayes and Flask.
+- **[Manajemen Film](https://github.com/Jezz76/manajemen-film-laravel)** — A film management application built with Laravel.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/jeskris-silahooy/) · [Repositories](https://github.com/Jezz76?tab=repositories)
