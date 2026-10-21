@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="t d">
+<title id="t">JEZZ76 — after hours</title><desc id="d">An animated pixel-art room. Rain outside, drifting clouds, a glowing terminal, steaming coffee and a sleeping cat. Decorative animation, not a live game or status tracker.</desc>
+<style>
+.rain{animation:rain 1.2s linear infinite}.steam{animation:steam 3s ease-in-out infinite}.cursor{animation:blink 1.2s steps(1) infinite}.star{animation:twinkle 4s ease-in-out infinite}.cat{animation:breathe 3s ease-in-out infinite;transform-origin:975px 510px}.cloud{animation:cloud 18s ease-in-out infinite alternate}.code{animation:code 5s steps(1) infinite}.sleep{animation:sleep 4s ease-out infinite}
+@keyframes rain{to{transform:translate(-12px,36px)}}@keyframes steam{0%,100%{transform:translateY(0);opacity:.25}50%{transform:translateY(-8px);opacity:.8}}@keyframes blink{50%{opacity:0}}@keyframes twinkle{50%{opacity:.25}}@keyframes breathe{50%{transform:scaleY(1.035)}}@keyframes cloud{to{transform:translateX(45px)}}@keyframes code{25%{opacity:.45}50%{opacity:1}75%{opacity:.75}}@keyframes sleep{0%{transform:translateY(0);opacity:0}30%{opacity:.8}100%{transform:translate(8px,-24px);opacity:0}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><pattern id="wall" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#202239"/><path d="M0 39H40" stroke="#25283f"/></pattern><pattern id="floor" width="120" height="28" patternUnits="userSpaceOnUse"><rect width="120" height="28" fill="#493b4d"/><path d="M0 27H120M119 0V28" stroke="#352d40" stroke-width="2"/></pattern><pattern id="lit" width="26" height="32" patternUnits="userSpaceOnUse"><rect x="8" y="8" width="6" height="10" fill="#d6ae8e" opacity=".45"/></pattern><pattern id="rain" width="58" height="36" patternUnits="userSpaceOnUse"><path d="M20 0l-4 12M49 22l-3 9" stroke="#859ebd" stroke-width="2" opacity=".4"/></pattern><clipPath id="window"><rect x="374" y="132" width="490" height="248"/></clipPath></defs>
+<rect width="1200" height="650" fill="#101425"/>
+<g shape-rendering="crispEdges">
+<rect x="24" y="24" width="1152" height="602" fill="url(#wall)" stroke="#4d5673" stroke-width="2"/>
+<rect x="25" y="25" width="1150" height="63" fill="#171b2e"/><path d="M25 88H1175" stroke="#4d5673"/>
+<rect x="50" y="46" width="16" height="16" fill="#9fd6c0"/>
+<rect x="1084" y="48" width="12" height="12" fill="#707b97"/><rect x="1110" y="48" width="12" height="12" fill="#ba9ec7"/><rect x="1136" y="48" width="12" height="12" fill="#deb38d"/>
+<rect x="362" y="120" width="514" height="272" fill="#111629" stroke="#69748e" stroke-width="8"/>
+<g clip-path="url(#window)"><rect x="374" y="132" width="490" height="248" fill="#27344f"/>
+<path class="star" d="M390 152h4v4h-4zM462 184h4v4h-4zM560 146h4v4h-4zM818 156h4v4h-4z" fill="#b8c7d9"/>
+<path d="M748 148h32v8h8v32h-8v8h-32v-8h-8v-32h8z" fill="#e8d3ae"/><path d="M760 148h20v8h8v32h-8v8h-20v-8h-8v-32h8z" fill="#27344f"/>
+<path class="cloud" d="M384 202h28v-10h50v10h38v10H384zM663 165h22v-10h46v10h30v8h-98z" fill="#48516c" opacity=".65"/>
+<path d="M374 310h42v-46h46v28h44v-64h62v92h40v-42h66v24h34v-56h56v62h40v-36h60v108H374z" fill="#171f35"/>
+<path d="M374 310h42v-46h46v28h44v-64h62v92h40v-42h66v24h34v-56h56v62h40v-36h60v108H374z" fill="url(#lit)"/>
+<rect class="rain" x="370" y="96" width="510" height="320" fill="url(#rain)"/></g>
+<rect x="606" y="124" width="8" height="260" fill="#69748e"/><rect x="368" y="374" width="502" height="12" fill="#8c92a5"/>
+<rect x="78" y="202" width="206" height="10" fill="#ac867d"/><rect x="94" y="152" width="20" height="50" fill="#c7959f"/><rect x="118" y="164" width="16" height="38" fill="#93b5ae"/><rect x="138" y="144" width="20" height="58" fill="#cbb38d"/><rect x="162" y="158" width="16" height="44" fill="#7888ad"/>
+<rect x="228" y="177" width="30" height="25" fill="#d2a387"/><path d="M238 177v-34h10v34M226 159v-13h12v13M248 151v-17h12v17" fill="#8cae99"/>
+<rect x="88" y="254" width="174" height="112" fill="#293149" stroke="#65708b" stroke-width="4"/><rect x="102" y="268" width="146" height="84" fill="#d6c8b4"/>
+<path d="M112 340l35-42 24 25 29-40 38 57z" fill="#8daaa0"/><rect x="117" y="278" width="15" height="15" fill="#b88e9a"/>
+<rect x="25" y="460" width="1150" height="110" fill="url(#floor)"/><rect x="25" y="452" width="1150" height="10" fill="#826879"/>
+<rect x="350" y="492" width="540" height="56" fill="#343c53"/><rect x="362" y="500" width="516" height="40" fill="none" stroke="#666780" stroke-width="2"/>
+<rect x="386" y="430" width="444" height="18" fill="#c49a87"/><rect x="386" y="448" width="444" height="8" fill="#896875"/><rect x="402" y="456" width="14" height="70" fill="#8d7180"/><rect x="800" y="456" width="14" height="70" fill="#8d7180"/>
+<rect x="448" y="332" width="154" height="88" fill="#111628" stroke="#78839e" stroke-width="6"/><rect x="458" y="342" width="134" height="68" fill="#2a4550"/>
+<path class="code" d="M470 356h32M484 368h64M484 380h46M470 392h80" stroke="#9bd5be" stroke-width="4"/><rect class="cursor" x="555" y="388" width="7" height="8" fill="#dcdfbb"/>
+<rect x="520" y="420" width="12" height="10" fill="#78839e"/><rect x="620" y="346" width="104" height="74" fill="#171b30" stroke="#78839e" stroke-width="6"/>
+<path d="M632 364h52M632 376h70M632 388h34M632 400h60" stroke="#b3a2cc" stroke-width="3"/><rect x="666" y="420" width="12" height="10" fill="#78839e"/>
+<rect x="742" y="410" width="22" height="20" fill="#e0c6a1"/><path d="M764 414h8v12h-8" fill="none" stroke="#e0c6a1" stroke-width="4"/>
+<path class="steam" d="M748 400v-8h4v-8M758 400v-12h4v-8" fill="none" stroke="#c7bebd" stroke-width="3"/>
+<rect x="562" y="396" width="52" height="48" fill="#cba18b"/><path d="M554 396v-18h10v-10h42v10h16v26h-16v-8z" fill="#28283b"/>
+<rect x="550" y="438" width="76" height="58" fill="#697793"/><rect x="558" y="448" width="60" height="54" fill="#465570"/><rect x="544" y="474" width="88" height="32" fill="#292e44" stroke="#75809a" stroke-width="4"/>
+<rect x="580" y="508" width="10" height="22" fill="#a1a7b5"/><path d="M558 532h54" stroke="#a1a7b5" stroke-width="6"/>
+<rect x="956" y="414" width="54" height="46" fill="#ac827b"/><rect x="948" y="406" width="70" height="12" fill="#d0a18b"/><path d="M978 406v-98h12v98M956 346h22v20h-22M990 328h24v20h-24M962 304h22v18h-22M990 374h20v16h-20" fill="#87ad9a"/>
+<g class="cat"><path d="M928 512v-14h12v-12l12 10h28l12-10v26h20v14h-84z" fill="#d2b596"/><path d="M940 509h8M962 509h8" stroke="#453b47" stroke-width="3"/><path d="M1012 520h18v-14h-10" fill="none" stroke="#d2b596" stroke-width="8"/></g>
+<rect x="25" y="570" width="1150" height="55" fill="#171b2e"/><path d="M25 570H1175" stroke="#4d5673"/>
+</g>
+<g font-family="Inter,Arial,sans-serif"><text x="84" y="63" fill="#e6e9ef" font-size="22" font-weight="700" letter-spacing="4">JEZZ76</text><text x="285" y="61" fill="#a0abc2" font-size="13" letter-spacing="2">AFTER HOURS</text>
+<text x="935" y="163" fill="#e4ba8c" font-size="18" font-weight="600" letter-spacing="2">JESKRIS</text><text x="935" y="190" fill="#a5b0c6" font-size="13">a little corner</text><text x="935" y="212" fill="#a5b0c6" font-size="13">of the internet.</text>
+<text class="sleep" x="1000" y="480" fill="#b6bfd2" font-size="18">z z</text>
+<text x="52" y="604" fill="#9fd6c0" font-size="13" letter-spacing="2">CODE / COFFEE / REPEAT</text><text x="1148" y="604" text-anchor="end" fill="#b3a2cc" font-size="13" letter-spacing="2">MAKE YOURSELF AT HOME</text></g>
+</svg>
