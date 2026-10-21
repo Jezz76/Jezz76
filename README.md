@@ -1,49 +1,45 @@
-<div align="center">
+<img src="./assets/profile-notebook.svg" width="100%" alt="Jeskris. Learning by building, one project at a time. An Informatics student's field notebook." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Jeskris%20Oktovianus%20Silahooy&fontSize=32&fontColor=58a6ff&desc=Systems%20Automation%20%7C%20Computer%20Vision%20%7C%20Fullstack%20Engineering&descSize=15&descAlignY=68" width="100%" />
+### Halo, gw Jeskris.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PLAYER-JESKRIS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-WINDOWS_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/MODE-ARCADE_HARDCORE-ff0055?style=for-the-badge&logo=game-and-watch&logoColor=white" />
-  <img src="https://img.shields.io/badge/CREDITS-99%2F99-238636?style=for-the-badge&logo=cashapp&logoColor=white" />
-</p>
+Mahasiswa **Informatika semester 7 di Universitas Jenderal Soedirman**. Lagi belajar membangun aplikasi web, mencoba otomasi dengan Python, dan mendalami computer vision untuk tugas akhir.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=35&lines=PLAYER+ONE%3A+READY;SYSTEMS+AUTOMATION+%7C+HEADLESS+BOTS+%26+DAAS;COMPUTER+VISION+%7C+PYTORCH+%26+YOLO11;FULLSTACK+ENGINEERING+%7C+LARAVEL+%26+TYPESCRIPT;INSERT+COIN+TO+CONTINUE..." alt="Typing Terminal" />
+GitHub ini tempat gw nyimpen tugas kuliah, proyek pribadi, dan eksperimen. Sebagian masih sederhana atau belum selesai—gw pengen pelan-pelan bikin hasilnya lebih rapi, bisa dijalankan, dan lebih gampang dipahami orang lain.
 
-<br/>
+[GitHub repositories](https://github.com/Jezz76?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/jeskris-silahooy/)
 
-### 🕹️ ARCADE STAGE: PAC-MAN
+---
 
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/assets/demo/pacman-dark.svg" alt="Pac-Man Arcade Game" width="100%" />
+### 01 / Di meja belajar
 
-<br/>
+| Area | Yang lagi gw pelajari |
+| :--- | :--- |
+| **Web development** | Laravel, React, dan TypeScript untuk bikin aplikasi dan antarmuka web. |
+| **Automation** | Python dan Playwright untuk mencoba mengurangi pekerjaan berulang. |
+| **Computer vision** | YOLO dan PyTorch sebagai bagian dari eksplorasi tugas akhir. |
 
-```text
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║  PLAYER: JESKRIS OKTOVIANUS SILAHOOY         LEVEL: 21 [UNSOED INFORMATICS]   ║
-║  CLASS : SYSTEMS AUTOMATION & CV ARCHITECT   STATUS: ONLINE [GRINDING CODE]   ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║  [HP] ████████████████████ 100%       [XP]  ████████████████░░░░  82%        ║
-║  [MP] ██████████══════════ 100%       [RIG] WINDOWS 11 // GTX 1650            ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║  SKILL TREES & ABILITIES:                                                     ║
-║  ├── [PASSIVE] Headless Automation   : Playwright, Anti-Detect, Stealth DaaS  ║
-║  ├── [ACTIVE]  Computer Vision Core  : YOLO11, PyTorch, Realtime Tracking     ║
-║  └── [BUFF]    Fullstack Engineering : Laravel, TypeScript, REST / GraphQL    ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+Ini arah belajar gw, bukan daftar teknologi yang semuanya sudah gw kuasai.
 
-<br/>
+### 02 / Beberapa hasil latihan
 
-### 🎒 INVENTORY // TECH STACK
+**[KP-Daily](https://github.com/Jezz76/KP-Daily)**  
+Aplikasi Laravel untuk mencatat kegiatan kerja praktik. Tempat latihan menyusun fitur pencatatan dan tampilan dashboard.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,laravel,php,ts,nodejs,postgres,docker,git,windows" alt="Inventory Stack" />
-</p>
+**[EmailClassifier](https://github.com/Jezz76/EmailClassifier)**  
+Eksperimen klasifikasi email spam dengan Naive Bayes dan Flask. Belajar menghubungkan pengolahan teks, model klasifikasi, dan aplikasi web.
 
-<br/>
+**[Manajemen Film — Laravel](https://github.com/Jezz76/manajemen-film-laravel)**  
+Latihan aplikasi pengelolaan data film dengan Laravel.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer" width="100%" />
+Proyek-proyek ini menunjukkan proses belajar; bukan klaim sistem produksi atau produk komersial.
 
-</div>
+### 03 / Catatan buat diri sendiri
+
+- Bisa jalan dulu, lalu pahami kenapa bisa jalan.
+- Kalau pakai library atau bantuan AI, tetap pelajari dan uji hasilnya.
+- Lebih baik sedikit fitur yang jelas daripada banyak fitur yang belum beres.
+- Dokumentasikan cara menjalankan proyek dan bagian yang masih perlu diperbaiki.
+
+---
+
+<sub>Belum punya semua jawabannya. Lagi belajar supaya bisa bikin sesuatu yang berguna.</sub>

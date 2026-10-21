@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Jeskris — learning in public</title><desc id="desc">An Informatics student's field notebook. Web development, small experiments, and things learned along the way.</desc>
+<rect width="1200" height="330" fill="#faf6ee"/>
+<path d="M70 52H1130M70 273H1130" stroke="#d8cfc1"/>
+<rect x="70" y="75" width="9" height="146" fill="#b54d29"/>
+<g font-family="Inter,Arial,sans-serif" fill="#241f1a">
+<text x="99" y="99" font-size="14" letter-spacing="3" fill="#806c59">FIELD NOTES / JEZZ76</text>
+<text x="95" y="161" font-size="54" font-weight="700" letter-spacing="-2">Jeskris.</text>
+<text x="99" y="201" font-size="23">Learning by building, one project at a time.</text>
+<text x="70" y="305" font-size="14" fill="#806c59">INFORMATICS STUDENT</text>
+<text x="1130" y="305" font-size="14" text-anchor="end" fill="#806c59">UNIVERSITAS JENDERAL SOEDIRMAN</text>
+</g>
+<g transform="translate(902 87)" fill="none" stroke="#806c59" stroke-width="2">
+<rect width="163" height="133" rx="3"/>
+<path d="M21 0V133M37 32H140M37 50H120M37 68H132M37 86H102" stroke="#d8cfc1"/>
+<path d="M119 109l9 9 20-25" stroke="#b54d29" stroke-width="3"/>
+</g>
+</svg>
